@@ -1,4 +1,4 @@
-# Handtime-webapp
+# nn-portfolio website
 IF YOU WANT FILES WITH IMAGES DOWNLOAD --> Project-Github Actions portfolio dock on this repo
 # Project: 🚀 Deploying a webapp on AWS S3 using GitHub Actions 🚀 
 Welcome to this detailed guide on how to deploy your Portfolio app on AWS S3 using GitHub Actions. In this step-by-step tutorial, we will cover each concept and explain every single step to ensure a smooth deployment process. But first, let's understand the key concepts of GitHub Actions.
